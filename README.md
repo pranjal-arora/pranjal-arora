@@ -2,7 +2,7 @@
 <h2 align="center">I'm a Computer Engineering Undergrad.</h2>
 
 
-- 🔭 I’m interested in **Backend Web Development in Node.js, and Blockchain**
+- 🔭 I’m interested in **Blockchain and Backend Web Development in Node.js**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Development and DevOps-related projects**
 
