@@ -2,13 +2,13 @@
 <h2 align="center">I'm a Computer Engineering Undergrad.</h2>
 
 
-- 🔭 I’m interested in **Blockchain and Backend Web Development in Node.js**
+- 🔭 I’m interested in **Blockchain, Machine Learning and Backend Software development**
 
 - 👯 I’m looking to collaborate on **Full-Stack Web Development and DevOps-related projects**
 
 - 🌱 I’m currently learning **Solidity and web3.js**
 
-- 🤔 I’m looking for help with **Competitive Programming**
+- 🤔 I’m looking for help in **Competitive Programming**
 
 - 📫 How to reach me **prv.gma@gmail.com**
 
